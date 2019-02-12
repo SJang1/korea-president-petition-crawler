@@ -22,5 +22,6 @@ and added each 150 seconds.
 
 ## What is the update plan
 * Makeing question when starting code first.
+* Checking +- so you can find easier
 * Auto generating JSON format so can be used in other services easier.
 * build it so can make everyone use it easier.
