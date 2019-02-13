@@ -7,9 +7,13 @@ Korea GOV seems to tring to delete petitions' agree. this code tracks agrees for
 
 ## How to use it
 Download this project
+
 Install requests at stage.py
+
 Install bs4 at stage.py
+
 Install time at stage.py
+
 Install time at stage.py
 
 change codes = ["000000"] to whatever you want (like ["522031"] or ["522031", "522062"]) at stage.py
